@@ -1,0 +1,2 @@
+Implemented a Haskell stack app that uses threads and concurrent computation. Our task to simulate a social network. The main program will spawn ten “user” threads, and each of these threads model a user in the social network. The customers can then (at random intervals) choose one of the other users (at random) and send a random message to that user.
+In addition, in this ap if the messages sent by the sender were blank the app could detect such messages and inform the user
